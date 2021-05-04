@@ -1,1 +1,1 @@
-# React-Yaz-Tura
+# React-Yazı-Tura
